@@ -1,0 +1,185 @@
+{
+	"header" : {
+		"name" : "Anthony J. Clark",
+		"date" : "November 2014",
+		"address": "Department of Computer Science and Engineering\nMichigan State University\n428 South Shaw Road\nEast Lansing, MI 48824",
+		"email": "ajc@msu.edu",
+		"website": "www.cse.msu.edu/~ajc"
+	},
+
+	"sections" : [
+		{
+			"name" : "Education",
+			"items" : [
+				{
+					"title" : "Ph.D Computer Science and Engineering",
+					"fields" : [
+						"Dissertation: Automatically Addressing Uncertainty in Autonomous Robots with Computational Evolution",
+						"Advisor: Philip K. McKinley",
+						"Michigan State University, East Lansing, MI USA"
+					],
+					"date" : "2010-"
+				},
+				{
+					"title" : "B.S. Computer Engineering",
+					"fields" : [
+						"Minor in Computer Science",
+						"Kansas State University, Manhattan, KS USA"
+					],
+					"date" : "2005-2009"
+				}
+			]
+		},
+		{
+			"name" : "Professional Experience",
+			"items" : [
+				{
+					"title" : "Graduate Research Assistant",
+					"fields" : [
+						"Department of Computer Science and Engineering, Michigan State University",
+						"Software Engineering and Networks Lab",
+						"Research: Applied evolutionary algorithms to the design of autonomous robotic fish."
+					],
+					"date" : "20010-"
+				},
+				{
+					"title" : "Undergraduate Research Assistant",
+					"fields" : [
+						"Department of Electrical and Computer Engineering, Kansas State University",
+						"Autonomous Vehicle Systems Lab",
+						"Responsibilities: Designed software used to capture images on-board an autonomous aerial vehicle."
+					],
+					"date" : "2009"
+				},
+				{
+					"title" : "Undergraduate Research Assistant",
+					"fields" : [
+						"Department of Electrical and Computer Engineering, Kansas State University",
+						"Independent Research with Professor Stewart E. Stanton",
+						"Research: Investigated the fundamentals of convergence of complex solutions in power systems."
+					],
+					"date" : "2008-2009"
+				},
+				{
+					"title" : "Software Engineer, Intern",
+					"fields" : [
+						"Garmin International",
+						"Department of Positioning and Sensors",
+						"Responsibilities: Solved problems associated with positioning error due to antenna performance."
+					],
+					"date" : "2008"
+				},
+				{
+					"title" : "Undergraduate Research Fellow",
+					"fields" : [
+						"Department of Computer Science, University of Illinois at Urbana-Champaign",
+						"Multimodal Information Access & Synthesis : Data Science Summer Institute",
+						"Responsibilities: Attended lectures covering the fundamentals of Data Sciences and contributed to an image processing project."
+					],
+					"date" : "2007"
+				},
+				{
+					"title" : "SAS Tutor",
+					"fields" : [
+						"Scholars Assisting Scholars, Kansas State University",
+						"A campus-wide, free tutoring program designed for core science courses.",
+						"Responsibilities: Attended my subjects lectures, provided tutoring consistent with course instruction, and lead review sessions before exams."
+					],
+					"date" : "2007-2009"
+				}
+			]
+		},
+		{
+			"name" : "Teaching and Outreach",
+			"items" : [
+				{
+					"title" : "Presenter, 3D Printing Showcase",
+					"fields" : [
+						"Library Open House, Michigan State University",
+						"Responsibilities: Presented 3D printing technologies and my labs research as part of outreach directed at undergraduates and the general population."
+					],
+					"date" : "2014"
+				},
+				{
+					"title" : "Co-Organizer, 'Evolution-In-Action Software and the Web' Sandbox Session",
+					"fields" : [
+						"BEACON Congress, Michigan State University",
+						"Responsibilities: Organized an open discussion regarding the application of state-of-the-art web technologies to evolutionary research and outreach projects."
+					],
+					"date" : "2014"
+				},
+				{
+					"title" : "Co-Instructor, College of Engineering High School Summer Program",
+					"fields" : [
+						"Introduction to Robotics Engineering (Evolutionary Robotics), Michigan State University",
+						"Responsibilities: Introduced evolutionary robotics to high school students using a tutorial based on an interactive web-based simulation environment developed by myself and Jared M. Moore. Students conducted evolutionary experiments in which they evolved robots.'"
+					],
+					"date" : "2014"
+				},
+				{
+					"title" : "Instructor, BEACON High School Summer Residential Program",
+					"fields" : [
+						"W.K. Kellogg Biological Station, Michigan State University",
+						"Responsibilities: Presented an overview of evolutionary computation to a group of four high school students interested in STEM fields, and then facilitated their work as they conducted, wrote about, and presented their own research."
+					],
+					"date" : "2014"
+				},
+				{
+					"title" : "Presenter, Research Experience for Undergraduates",
+					"fields" : [
+						"College of Engineering, Michigan State University",
+						"Responsibilities: Presented my evolutionary robotics research and participated in a questions and answers session with Dr. Philip K. McKinley, Jared M. Moore, and a group of visiting REU students."
+					],
+					"date" : "2014"
+				},
+				{
+					"title" : "Mentor, NSF Research Experience for Teachers Summer Program",
+					"fields" : [
+						"College of Engineering, Michigan State University",
+						"Responsibilities: Mentored a local high school engineering instructor, Charles Payson. Over the course of a summer, Mr. Payson designed, implemented, and presented a web application used to teach evolutionary robotics concepts to K-12 students and the general public. I taught Mr. Payson web-programming skills as well as aided him in developing a curriculum for high school students."
+					],
+					"date" : "2014"
+				},
+				{
+					"title" : "Graduate Student Evaluator",
+					"fields" : [
+						"Undergraduate Research and Arts Forum, Michigan State University",
+						"Responsibilities: Provided feedback to undergraduates presenting their research, and scored poster presentations for a competition."
+					],
+					"date" : "2014"
+				},
+				{
+					"title" : "Presenter, Engineering Robotics at MSU Summer Residential Program",
+					"fields" : [
+						"College of Engineering, Michigan State University",
+						"Responsibilities: Presented my research on evolving robotic fish control and morphology and participated in a questions and answers session with Dr. Philip K. McKinley, Jared M. Moore, and a group of high school students."
+					],
+					"date" : "2013"
+				},
+				{
+					"title" : "Mentor, NSF Research Experience for Teachers Summer Program",
+					"fields" : [
+						"College of Engineering, Michigan State University",
+						"Responsibilities: Mentored a local high school engineering instructor, Charles Payson. During a six-week program, I aided Mr. Payson in learning C++ programming, evolutionary algorithm development, creating dynamic simulations. At the end of the program, I assisted Mr. Payson in translating his research into a robotics lesson plan using the VEX platform."
+					],
+					"date" : "2013"
+				},
+				{
+
+				}
+
+
+
+				{
+					"title" : "SAS Tutor",
+					"fields" : [
+						"Scholars Assisting Scholars, Kansas State University",
+						"A campus-wide, free tutoring program designed for core science courses.",
+						"Responsibilities: Attended my subjects lectures, provided tutoring consistent with course instruction, and lead review sessions before exams."
+					],
+					"date" : "2007-2009"
+				}
+			]
+		}
+	]
+}
