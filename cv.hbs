@@ -1,0 +1,30 @@
+<link rel="stylesheet" href="flxgrid.css">
+
+<h3>Curriculum Vitae</h3>
+
+<h4>{{header.name}}</h4>
+<span>{{header.date}}</span>
+
+<div class="flxgrid">
+	<div class="flx-50">
+	{{#each header.address}}
+		<p>{{this}}</p>
+	{{/each}}</div>
+	<div class="flx-50 text-right">
+		<p>{{header.email}}</p>
+		<p>{{header.website}}</p>
+	</div>
+
+	{{#each sections}}
+	<div class="flx-100"><h5>{{this.name}}</h5></div>
+		{{#each this.items}}
+		<div class="flx-20 text-right">{{this.date}}</div>
+		<div class="flx-80">
+			<p><strong>{{this.title}}</strong></p>
+			{{#each this.fields}}
+			<p>{{this}}</p>
+			{{/each}}			
+		</div>
+		{{/each}}
+	{{/each}}
+</div>

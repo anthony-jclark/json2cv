@@ -1,0 +1,98 @@
+
+* { 
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.flxgrid {
+	display: -webkit-flex;
+	display: flex;
+
+	-webkit-flex-flow: row wrap;
+	flex-flow: row wrap;
+}
+
+[class^='flx-'] {
+	margin: 0;
+	padding: 0;
+	-webkit-flex: 1;
+	flex: 1;
+}
+
+.flx-100 {
+	-webkit-flex: 0 0 100%;
+	flex: 0 0 100%;
+}
+
+.flx-90 {
+	-webkit-flex: 0 0 90%;
+	flex: 0 0 90%;
+}
+
+.flx-80 {
+	-webkit-flex: 0 0 80%;
+	flex: 0 0 80%;
+}
+
+.flx-70 {
+	-webkit-flex: 0 0 70%;
+	flex: 0 0 70%;
+}
+
+.flx-60 {
+	-webkit-flex: 0 0 60%;
+	flex: 0 0 60%;
+}
+
+.flx-50 {
+	-webkit-flex: 0 0 50%;
+	flex: 0 0 50%;
+}
+
+.flx-40 {
+	-webkit-flex: 0 0 40%;
+	flex: 0 0 40%;
+}
+
+.flx-30 {
+	-webkit-flex: 0 0 30%;
+	flex: 0 0 30%;
+}
+
+.flx-20 {
+	-webkit-flex: 0 0 20%;
+	flex: 0 0 20%;
+}
+
+.flx-10 {
+	-webkit-flex: 0 0 10%;
+	flex: 0 0 10%;
+}
+
+
+/*-- demo styling --*/
+.demo, .demo *{
+    outline: 1px solid #F6A1A1; 
+}
+.demo [class*='flx-'] {
+    background-color: #FFDCDC;
+}
+
+.demo [class*='flx-'] > p {
+	background-color: #FFC2C2; 
+	padding: 0;
+	margin: 0;
+	text-align: center; 
+	color: white; 
+}
+
+/*-- cv style --*/
+.text-right {
+	text-align: right;
+}
+
+.p80p {
+	margin: 0 auto;
+	width: 80%;
+}

@@ -2,7 +2,12 @@
 	"header" : {
 		"name" : "Anthony J. Clark",
 		"date" : "November 2014",
-		"address": "Department of Computer Science and Engineering\nMichigan State University\n428 South Shaw Road\nEast Lansing, MI 48824",
+		"address": [
+			"Department of Computer Science and Engineering",
+			"Michigan State University",
+			"428 South Shaw Road",
+			"East Lansing, MI 48824"
+		],
 		"email": "ajc@msu.edu",
 		"website": "www.cse.msu.edu/~ajc"
 	},
@@ -24,6 +29,7 @@
 					"title" : "B.S. Computer Engineering",
 					"fields" : [
 						"Minor in Computer Science",
+						"Graduated magna cum laude",
 						"Kansas State University, Manhattan, KS USA"
 					],
 					"date" : "2005-2009"
@@ -165,11 +171,13 @@
 					"date" : "2013"
 				},
 				{
-
-				}
-
-
-
+					"title" : "Mentor, NSF Research Experience for Teachers Summer Program",
+					"fields" : [
+						"College of Engineering, Michigan State University",
+						"Responsibilities: Mentored a local elementary school teacher, Adam Ford, that specializes in computers and robotics. Mr. Ford developed the Biolume simulation environment, which demonstrates evolution 'in-action' using using simple robots. The Biolume project is an outreach exhibit aimed at teaching evolutionary principles to the general public."
+					],
+					"date" : "2011"
+				},
 				{
 					"title" : "SAS Tutor",
 					"fields" : [
