@@ -1,0 +1,23 @@
+{
+  "name": "json2cv",
+  "version": "0.0.1",
+  "description": "Convert a JSON file into a CV.",
+  "main": "json2cv.js",
+  "scripts": {
+    "test": "json2cv cv.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anthony-jclark/json2cv.git"
+  },
+  "keywords": [
+    "JSON",
+    "CV"
+  ],
+  "author": "Anthony J. Clark",
+  "license": "Apache Version 2.0",
+  "bugs": {
+    "url": "https://github.com/anthony-jclark/json2cv/issues"
+  },
+  "homepage": "https://github.com/anthony-jclark/json2cv"
+}
