@@ -70,6 +70,15 @@
 	flex: 0 0 10%;
 }
 
+.text-right {
+	text-align: right;
+}
+
+.text-center {
+	text-align: center;
+}
+
+
 
 /*-- demo styling --*/
 .demo, .demo *{
@@ -87,12 +96,8 @@
 	color: white; 
 }
 
-/*-- cv style --*/
-.text-right {
-	text-align: right;
-}
-
 .p80p {
 	margin: 0 auto;
 	width: 80%;
 }
+

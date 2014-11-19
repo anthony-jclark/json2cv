@@ -46,7 +46,7 @@
 						"Software Engineering and Networks Lab",
 						"Research: Applied evolutionary algorithms to the design of autonomous robotic fish."
 					],
-					"date" : "20010-"
+					"date" : "2010-"
 				},
 				{
 					"title" : "Undergraduate Research Assistant",
@@ -188,6 +188,317 @@
 					"date" : "2007-2009"
 				}
 			]
+		},
+		{
+			"name" : "Publications",
+			"items" : [
+				{
+					"title" : "Balancing Performance and Efficiency in a Robotic Fish with Evolutionary Multiobjective Optimization",
+					"fields" : [
+						"Anthony Clark, Jianxun Wang Philip K. McKinley, and Xiaobo Tan",
+						"In Proceedings of the IEEE International Conference on Evolvable Systems, held in conjunction with the 2014 IEEE Symposium on Computational Intelligence (SSCI), Orlando, Florida, December 2014.",
+						"In press"
+					],
+					"date" : "2014"
+				},
+				{
+					"title" : "On-Board Evolution of a Model-Free Adaptive Controller for a Robotic Fish",
+					"fields" : [
+						"Anthony Clark, Philip K. McKinley, and Xiaobo Tan",
+						"In Proceedings of Evolution of Physical Systems Workshop, held in conjunction with the 14th International Conference on the Synthesis and Simulation of Living Systems (ALIFE 14), New York, New York, July 2014. "
+					],
+					"date" : "2014"
+				},
+				{
+					"title" : "Hold the Spot: Evolution of Generalized Station Keeping for an Aquatic Robot",
+					"fields" : [
+						"Jared M. Moore and Anthony J. Clark",
+						"In Proceedings of the 14th International Conference on the Synthesis and Simulation of Living Systems (ALIFE 14), New York, New York, pages 200--201, July 2014. "
+					],
+					"date" : "2014"
+				},
+				{
+					"title" : "Evolutionary Robotics on the Web with WebGL and Javscript",
+					"fields" : [
+						"Jared M. Moore, Anthony J. Clark, and Philip K. McKinley",
+						"In Proceedings of the Workshop on Artificial Life and the Web 2014, held in conjunction with the 14th International Conference on the Synthesis and Simulation of Living Systems (ALIFE 14), New York, New York, July 2014. "
+					],
+					"date" : "2014"
+				},
+				{
+					"title" : "Just Keep Swimming: Accounting for Uncertainty in Self-Modeling Aquatic Robots",
+					"fields" : [
+						"Matthew J. Rose, Anthony J. Clark, Jared M. Moore, and Philip K. McKinley",
+						"In Proceedings of the 6th International Workshop on Evolutionary and Reinforcement Learning for Autonomous Robot Systems, Taormina, Italy, September 2013.",
+						"Best Paper Award"
+					],
+					"date" : "2013"
+				},
+				{
+					"title" : "Evolution of Station Keeping as a Response to Flows in an Aquatic Robot",
+					"fields" : [
+						"Jared M. Moore, Anthony J. Clark, and Philip K. McKinley",
+						"In Proceedings of the 2013 ACM Genetic and Evolutionary Computing Conference, Amsterdam, The Netherlands, pages 239--246, 2013. "
+					],
+					"date" : "2013"
+				},
+				{
+					"title" : "Evolutionary Optimization of Robotic Fish Control and Morphology",
+					"fields" : [
+						"Anthony J. Clark and Philip K. McKinley",
+						"In Proceedings of the 2013 ACM Genetic and Evolutionary Computing Conference Companion, Amsterdam, The Netherlands, pages 21--22, 2013."
+					],
+					"date" : "2013"
+				},
+				{
+					"title" : "Evolutionary design and experimental validation of a flexible caudal fin for robotic fish",
+					"fields" : [
+						"Anthony Clark, Jared Moore, Jianxun Wang, Xiaobo Tan, and Philip McKinley",
+						"In Proceedings of the Thirteenth International Conference on the Synthesis and Simulation of Living Systems, East Lansing, Michigan, USA, pages 325--332, July 2012.",
+						"Best Paper Award"
+					],
+					"date" : "2012"
+				}
+			]
+		},
+		{
+			"name" : "University and Professional Service",
+			"items" : [
+				{
+					"title" : "Coordinator, Computer Science and Engineering Graduate Association (Elected)",
+					"fields" : [
+						"Responsibilities: Coordinated a monthly meeting of graduate students in the Department of Computer Science, facilitated communication of department news and policies, and organized graduate student service opportunities."
+					],
+					"date" : "2014-2015"
+				},
+				{
+					"title" : "Graduate Representative, Computer Science and Engineering Graduate Studies and Research Committee (Elected)",
+					"fields" : [],
+					"date" : "2014-2015"
+				},
+				{
+					"title" : "Reviewer, Symposium Series on Computational Intelligence",
+					"fields" : [],
+					"date" : "2014"
+				},
+				{
+					"title" : "Graduate Representative, Computer Science and Engineering Faculty Committee (Elected)",
+					"fields" : [],
+					"date" : "2013-2014"
+				},
+				{
+					"title" : "Reviewer, International Conference on Self-Adaptive and Self-Organizing Systems",
+					"fields" : [],
+					"date" : "2013"
+				},
+				{
+					"title" : "Undergraduate Officer, Eta Kapp Nu, Electrical and Computer Engineering at Kansas State University",
+					"fields" : [],
+					"date" : "2007-2009"
+				}
+			]
+		},
+		{
+			"name" : "Awards and Honors",
+			"items" : [
+				{
+					"title" : "Best Paper Award:  Workshop on Evolutionary and reinforcement Learning for Autonomous Robot Systems",
+					"fields" : [
+						"Matthew J. Rose, Anthony J. Clark, Jared M. Moore, and Philip K. McKinley. Just Keep Swimming: Accounting for Uncertainty in Self-Modeling Aquatic Robots. In Proceedings of the 6th International Workshop on Evolutionary and Reinforcement Learning for Autonomous Robot Systems, Taormina, Italy, September 2013."
+					],
+					"date" : "2013"
+				},
+				{
+					"title" : "Best Paper Award: ALIFE-13, Behavior and Intelligence Track",
+					"fields" : [
+						"Anthony Clark, Jared Moore, Jianxun Wang, Xiaobo Tan, and Philip McKinley. Evolutionary design and experimental validation of a flexible caudal fin for robotic fish. In Proceedings of the Thirteenth International Conference on the Synthesis and Simulation of Living Systems, East Lansing, Michigan, USA, pages 325--332, July 2012."
+					],
+					"date" : "2012"
+				},
+				{
+					"title" : "Honorable Mention: Graduate Research Fellowship Program, National Science Foundation",
+					"fields" : [],
+					"date" : "2012"
+				},
+				{
+					"title" : "Top Up Fellowship: NSF BEACON Center for the Study of Evolution in Action",
+					"fields" : [],
+					"date" : "2010-2015"
+				},
+				{
+					"title" : "University Enrichment Fellowship: Michigan State University",
+					"fields" : [],
+					"date" : "2010-2015"
+				},
+				{
+					"title" : "Graduated magna cum laude: Kansas State University",
+					"fields" : [],
+					"date" : "2009"
+				},
+				{
+					"title" : "Garmin Scholarship: Garmin International",
+					"fields" : [],
+					"date" : "2008,2009"
+				}
+			]
+		},
+		{
+			"name" : "Presentations",
+			"items" : [
+				{
+					"title" : "(upcoming) Conference Talk: Balancing Performance and Efficiency in a Robotic Fish with Evolutionary Multiobjective Optimization",
+					"fields" : [
+						"IEEE International Conference on Evolvable Systems, held in conjunction with the 2014 IEEE Symposium on Computational Intelligence (SSCI)",
+						"Orlando, Florida, USA"
+					],
+					"date" : "2014"
+				},
+				{
+					"title" : "Poster Presentation: ",
+					"fields" : [
+						"BEACON Congress",
+						"East Lansing, Michigan, USA"
+					],
+					"date" : "2014"
+				},
+				{
+					"title" : "Poster Presentation: 3D Evolutionary Robotics on the Web: Evolve-a-Robot",
+					"fields" : [
+						"BEACON Congress",
+						"East Lansing, Michigan, USA"
+					],
+					"date" : "2014"
+				},
+				{
+					"title" : "Conference Talk: ",
+					"fields" : [
+						"The Fourteenth International Conference on the Synthesis and Simulation of Living Systems, International Workshop on Evolutionary and Reinforcement Learning for Autonomous Robot Systems",
+						"New York City, New York, USA"
+					],
+					"date" : "2014"
+				},
+				{
+					"title" : "Poster Presentation:",
+					"fields" : [
+						"NSF Annual Site Visit to BEACON",
+						"East Lansing, Michigan, USA"
+					],
+					"date" : "2013"
+				},
+				{
+					"title" : "Poster Presentation:",
+					"fields" : [
+						"Cyberinfrastructure Days",
+						"East Lansing, Michigan, USA"
+					],
+					"date" : "2013"
+				},
+				{
+					"title" : "Invited Conference Talk:",
+					"fields" : [
+						"The Twelfth European Conference on Artificial Life, International Workshop on Evolutionary and Reinforcement Learning for Autonomous Robot Systems",
+						"Taormina, Italy"
+					],
+					"date" : "2013"
+				},
+				{
+					"title" : "Poster Presentation:",
+					"fields" : [
+						"BEACON Congress",
+						"East Lansing, Michigan, USA"
+					],
+					"date" : "2013"
+				},
+				{
+					"title" : "Poster Presentation: ",
+					"fields" : [
+						"Genetic and Evolutionary Computing Conference",
+						"Amsterdam, Netherlands"
+					],
+					"date" : "2013"
+				},
+				{
+					"title" : "Poster Presentation:",
+					"fields" : [
+						"NSF Annual Site Visit to BEACON",
+						"East Lansing, Michigan, USA"
+					],
+					"date" : "2012"
+				},
+				{
+					"title" : "Conference Talk: Evolutionary design and experimental validation of a flexible caudal fin for robotic fish",
+					"fields" : [
+						"The Thirteenth International Conference on the Synthesis and Simulation of Living Systems",
+						"East Lansing, Michigan, USA"
+					],
+					"date" : "2012"
+				},
+				{
+					"title" : "Poster Presentation:",
+					"fields" : [
+						"NSF Annual Site Visit to BEACON",
+						"East Lansing, Michigan, USA"
+					],
+					"date" : "2011"
+				}
+			]
+		},
+		{
+			"name" : "Grant Activity",
+			"items" : [
+				{
+					"title": "II-EN: Evolution Park: An Evolutionary Robotics Habitat for the Study of Crawling, Swimming and Flying Creatures",
+					"fields" : [
+						"Sponsor: NSF, Amount: $305,000, PI: P. McKinley, Co-PIs: X. Tan, J. Boughman"
+					],
+					"date": "2011-2014"
+				},
+				{
+					"title": "Exploiting Robot-Fish Interactions and Evolutionary Computing to Understand and Synthesize Complex Collective Behavior",
+					"fields" : [
+						"Sponsor: NSF BEACON Center for the Study of Evolution in Action, Amount: $110,642 (estimate), PI: X. Tan, Co-PIs: P. McKinley, J. Boughman"
+					],
+					"date": "2011-2012"
+				},
+				{
+					"title": "Understanding and Synthesizing Collective Behavior with Mixed Robotic and Live Fish Schools",
+					"fields" : [
+						"Sponsor: NSF BEACON Center for the Study of Evolution in Action, Amount: $169,923, PI: X. Tan, Co-PIs: P. McKinley, J. Boughman"
+					],
+					"date": "2012-2013"
+				},
+				{
+					"title": "Distributed, Onboard Evolution in a Robotic Cloud",
+					"fields" : [
+						"Sponsor: NSF BEACON Center for the Study of Evolution in Action, Amount: $168,231, PI: T. Soule (U. Idaho), Co-PIs: R. Heckendorn (U. Idaho), P. McKinley (MSU), J. Zhan (NCA&T), S. Harrison (NCA&T)"
+					],
+					"date": "2013-2014"
+				}
+			]
+		},
+		{
+			"name" : "Software Contributions",
+			"items" : [
+				{
+					"title" : "Developer: Developer: Evolve-a-Robot: Online Evolutionary Robotics Environment",
+					"fields" : [
+						"URL: http://evolve-a-robot.github.io/",
+						"Code: https://github.com/evolve-a-robot/evolve-a-robot.github.io",
+						"Description: The web portal allows users to conduct their own evolutionary robotics experiment while changing parameters related to evolutionary operators and the environment. Users develop an understanding of how population size, mutation, crossover, and selection influence the evolution of a wheeled robotic system. The portal can be accessed directly by individuals, or in the context of a workshop to facilitate group discussion and individual student exploration."
+					],
+					"date" : "2014-"
+				}
+			]
+		},
+		{
+			"name" : "References",
+			"items" : [{"title" : "References are available upon request.", "fields" : [], "date" : ""}]
 		}
 	]
 }
+
+
+
+
+
+

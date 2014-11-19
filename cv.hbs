@@ -1,28 +1,30 @@
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,700,300,400' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="flxgrid.css">
+<link rel="stylesheet" href="cv.css">
 
 <h3>Curriculum Vitae</h3>
 
-<h4>{{header.name}}</h4>
-<span>{{header.date}}</span>
-
-<div class="flxgrid">
-	<div class="flx-50">
+<div class="flxgrid cv-container">
+	<div class="flx-60 cv-name">{{header.name}}</div>
+	<div class="flx-40 text-right cv-update">Last Updated: {{header.date}}</div>
+	<div class="flx-100"><hr></div>
+	<div class="flx-50 cv-contact">
 	{{#each header.address}}
 		<p>{{this}}</p>
 	{{/each}}</div>
-	<div class="flx-50 text-right">
+	<div class="flx-50 cv-contact text-right">
 		<p>{{header.email}}</p>
 		<p>{{header.website}}</p>
 	</div>
-
 	{{#each sections}}
-	<div class="flx-100"><h5>{{this.name}}</h5></div>
+	<div class="flx-100"><hr></div>
+	<div class="flx-100 cv-section">{{this.name}}</div>
 		{{#each this.items}}
-		<div class="flx-20 text-right">{{this.date}}</div>
+		<div class="flx-20 text-right cv-date">{{this.date}}</div>
 		<div class="flx-80">
-			<p><strong>{{this.title}}</strong></p>
+			<p class="cv-title">{{this.title}}</p>
 			{{#each this.fields}}
-			<p>{{this}}</p>
+			<p class="cv-info">{{this}}</p>
 			{{/each}}			
 		</div>
 		{{/each}}
