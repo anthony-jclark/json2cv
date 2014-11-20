@@ -19,13 +19,16 @@
 	{{#each sections}}
 	<div class="flx-100"><hr></div>
 	<div class="flx-100 cv-section">{{this.name}}</div>
+	<div class="flx-20"></div>
+	<div class="flx-80 cv-note">{{this.note}}</div>
 		{{#each this.items}}
 		<div class="flx-20 text-right cv-date">{{this.date}}</div>
 		<div class="flx-80">
 			<p class="cv-title">{{this.title}}</p>
 			{{#each this.fields}}
 			<p class="cv-info">{{this}}</p>
-			{{/each}}			
+			{{/each}}
+			<p class="cv-emph">{{this.emphasize}}</p>
 		</div>
 		{{/each}}
 	{{/each}}

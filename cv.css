@@ -56,8 +56,19 @@ hr {
 	padding-top: 1rem;
 }
 
-.cv-info {
+.cv-info, .cv-emph {
 	/*padding: 0;*/
+}
+
+.cv-emph {
+	font-weight: bold;
+	color: #555;
+}
+
+.cv-note {
+	font-size: 0.8rem;
+	font-style: italic;
+	color: #555;
 }
 
 

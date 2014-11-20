@@ -14,6 +14,7 @@ template.page('cv.hbs');
 // Open the json file (CL argument)
 var fs = require('fs');
 var cvdata = JSON.parse(fs.readFileSync(process.argv[2], 'utf8'));
+// console.log(cvdata);
 
 
 // Render the page
