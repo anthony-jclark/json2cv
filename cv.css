@@ -78,7 +78,23 @@ hr {
 	.cv-container {
 		width: 100%
 	}
-	div, p {
+	.no-print {
+		display: none;
+	}
+	.flxgrid {
+		/*display: inline-block;*/
+	}
+	[class^='flx-'] {
+		page-break-inside: avoid;
+		-webkit-region-break-inside: avoid;
+		region-break-inside: avoid;
+	}
+	div.page {
+		page-break-after: always;
 		page-break-inside: avoid;
 	}
 }
+
+/*</div>
+<div class="page"></div>
+<div class="flxgrid cv-container">*/

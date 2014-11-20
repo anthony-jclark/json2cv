@@ -44,7 +44,7 @@
 					"fields" : [
 						"Department of Computer Science and Engineering, Michigan State University",
 						"Software Engineering and Networks Lab",
-						"Research: Applied evolutionary algorithms to the design of autonomous robotic fish."
+						"Research: Studying the application of evolutionary algorithms to the design of autonomous robotic fish."
 					],
 					"date" : "2010-"
 				},
@@ -53,7 +53,7 @@
 					"fields" : [
 						"Department of Electrical and Computer Engineering, Kansas State University",
 						"Autonomous Vehicle Systems Lab",
-						"Responsibilities: Designed software used to capture images on-board an autonomous aerial vehicle."
+						"Responsibilities: Designed software used to capture images at specified GPS locations with an autonomous aerial vehicle."
 					],
 					"date" : "2009"
 				},
@@ -89,7 +89,7 @@
 					"fields" : [
 						"Scholars Assisting Scholars, Kansas State University",
 						"A campus-wide, free tutoring program designed for core science courses.",
-						"Responsibilities: Attended my subjects lectures, provided tutoring consistent with course instruction, and lead review sessions before exams."
+						"Responsibilities: Attended lectures of the subject that I was tutoring, provided tutoring consistent with course instruction, and lead review sessions prior to exams."
 					],
 					"date" : "2007-2009"
 				}
@@ -107,7 +107,7 @@
 					"date" : "2014"
 				},
 				{
-					"title" : "Co-Organizer, 'Evolution-In-Action Software and the Web' Sandbox Session",
+					"title" : "Co-Organizer of Sandbox Session, Evolution-In-Action Software and the Web",
 					"fields" : [
 						"BEACON Congress, Michigan State University",
 						"Responsibilities: Organized an open discussion regarding the application of state-of-the-art web technologies to evolutionary research and outreach projects."
@@ -118,7 +118,7 @@
 					"title" : "Co-Instructor, College of Engineering High School Summer Program",
 					"fields" : [
 						"Introduction to Robotics Engineering (Evolutionary Robotics), Michigan State University",
-						"Responsibilities: Introduced evolutionary robotics to high school students using a tutorial based on an interactive web-based simulation environment developed by myself and Jared M. Moore. Students conducted evolutionary experiments in which they evolved robots.'"
+						"Responsibilities: Introduced evolutionary robotics to high school students in a tutorial style. The tutorial was based on an interactive web-based simulation environment developed by myself and Jared M. Moore. Students conducted evolutionary experiments in which they evolved robots."
 					],
 					"date" : "2014"
 				},
@@ -126,7 +126,7 @@
 					"title" : "Instructor, BEACON High School Summer Residential Program",
 					"fields" : [
 						"W.K. Kellogg Biological Station, Michigan State University",
-						"Responsibilities: Presented an overview of evolutionary computation to a group of four high school students interested in STEM fields, and then facilitated their work as they conducted, wrote about, and presented their own research."
+						"Responsibilities: Presented an overview of evolutionary computation to a group of four high school students interested in STEM fields, and then facilitated their work as they conducted, wrote about, and presented results from their own evolutionary study."
 					],
 					"date" : "2014"
 				},
@@ -166,7 +166,7 @@
 					"title" : "Mentor, NSF Research Experience for Teachers Summer Program",
 					"fields" : [
 						"College of Engineering, Michigan State University",
-						"Responsibilities: Mentored a local high school engineering instructor, Charles Payson. During a six-week program, I aided Mr. Payson in learning C++ programming, evolutionary algorithm development, creating dynamic simulations. At the end of the program, I assisted Mr. Payson in translating his research into a robotics lesson plan using the VEX platform."
+						"Responsibilities: Mentored a local high school engineering instructor, Charles Payson. During a six-week program, I aided Mr. Payson in learning C++ programming, evolutionary algorithm development, and creating dynamic simulations. At the end of the program, I assisted Mr. Payson in translating his research into a robotics lesson plan using the VEX platform."
 					],
 					"date" : "2013"
 				},
@@ -251,7 +251,7 @@
 					"date" : "2013"
 				},
 				{
-					"title" : "Evolutionary design and experimental validation of a flexible caudal fin for robotic fish",
+					"title" : "Evolutionary Design and Experimental Validation of a Flexible Caudal Fin for Robotic Fish",
 					"fields" : [
 						"Anthony Clark, Jared Moore, Jianxun Wang, Xiaobo Tan, and Philip McKinley",
 						"In Proceedings of the Thirteenth International Conference on the Synthesis and Simulation of Living Systems, East Lansing, Michigan, USA, pages 325--332, July 2012.",
@@ -316,28 +316,28 @@
 					"date" : "2012"
 				},
 				{
-					"title" : "Honorable Mention: Graduate Research Fellowship Program, National Science Foundation",
-					"fields" : [],
+					"title" : "Honorable Mention: Graduate Research Fellowship Program",
+					"fields" : ["National Science Foundation"],
 					"date" : "2012"
 				},
 				{
-					"title" : "Top Up Fellowship: NSF BEACON Center for the Study of Evolution in Action",
-					"fields" : [],
+					"title" : "Top Up Fellowship",
+					"fields" : ["NSF BEACON Center for the Study of Evolution in Action"],
 					"date" : "2010-2015"
 				},
 				{
-					"title" : "University Enrichment Fellowship: Michigan State University",
-					"fields" : [],
+					"title" : "University Enrichment Fellowship",
+					"fields" : ["Michigan State University"],
 					"date" : "2010-2015"
 				},
 				{
-					"title" : "Graduated magna cum laude: Kansas State University",
-					"fields" : [],
+					"title" : "Graduated magna cum laude",
+					"fields" : ["Kansas State University"],
 					"date" : "2009"
 				},
 				{
-					"title" : "Garmin Scholarship: Garmin International",
-					"fields" : [],
+					"title" : "Garmin Scholarship",
+					"fields" : ["Garmin International"],
 					"date" : "2008,2009"
 				}
 			]
@@ -354,7 +354,7 @@
 					"date" : "2014"
 				},
 				{
-					"title" : "Poster Presentation: ",
+					"title" : "Poster Presentation: Evolving Adaptive Control for Robotic Fish",
 					"fields" : [
 						"BEACON Congress",
 						"East Lansing, Michigan, USA"
@@ -370,7 +370,7 @@
 					"date" : "2014"
 				},
 				{
-					"title" : "Conference Talk: ",
+					"title" : "Conference Talk: On-Board Evolution of a Model-Free Adaptive Controller for a Robotic Fish",
 					"fields" : [
 						"The Fourteenth International Conference on the Synthesis and Simulation of Living Systems, International Workshop on Evolutionary and Reinforcement Learning for Autonomous Robot Systems",
 						"New York City, New York, USA"
@@ -378,7 +378,7 @@
 					"date" : "2014"
 				},
 				{
-					"title" : "Poster Presentation:",
+					"title" : "Poster Presentation: Evolving Robotic Fish Control and Morphology",
 					"fields" : [
 						"NSF Annual Site Visit to BEACON",
 						"East Lansing, Michigan, USA"
@@ -386,7 +386,7 @@
 					"date" : "2013"
 				},
 				{
-					"title" : "Poster Presentation:",
+					"title" : "Poster Presentation: Evolutionary Optimization of Robotic Fish Control and Morphology",
 					"fields" : [
 						"Cyberinfrastructure Days",
 						"East Lansing, Michigan, USA"
@@ -394,7 +394,7 @@
 					"date" : "2013"
 				},
 				{
-					"title" : "Invited Conference Talk:",
+					"title" : "Invited Conference Talk: Evolving Aquatic Robots",
 					"fields" : [
 						"The Twelfth European Conference on Artificial Life, International Workshop on Evolutionary and Reinforcement Learning for Autonomous Robot Systems",
 						"Taormina, Italy"
@@ -402,7 +402,7 @@
 					"date" : "2013"
 				},
 				{
-					"title" : "Poster Presentation:",
+					"title" : "Poster Presentation: Evolutionary Optimization of Robotic Fish Control and Morphology",
 					"fields" : [
 						"BEACON Congress",
 						"East Lansing, Michigan, USA"
@@ -410,7 +410,7 @@
 					"date" : "2013"
 				},
 				{
-					"title" : "Poster Presentation: ",
+					"title" : "Poster Presentation: Evolutionary Optimization of Robotic Fish Control and Morphology",
 					"fields" : [
 						"Genetic and Evolutionary Computing Conference",
 						"Amsterdam, Netherlands"
@@ -418,7 +418,7 @@
 					"date" : "2013"
 				},
 				{
-					"title" : "Poster Presentation:",
+					"title" : "Poster Presentation: Evolutionary Design and Experimental Validation of a Flexible Caudal Fin for Robotic Fish",
 					"fields" : [
 						"NSF Annual Site Visit to BEACON",
 						"East Lansing, Michigan, USA"
@@ -426,7 +426,7 @@
 					"date" : "2012"
 				},
 				{
-					"title" : "Conference Talk: Evolutionary design and experimental validation of a flexible caudal fin for robotic fish",
+					"title" : "Conference Talk: Evolutionary Design and Experimental Validation of a Flexible Caudal Fin for Robotic Fish",
 					"fields" : [
 						"The Thirteenth International Conference on the Synthesis and Simulation of Living Systems",
 						"East Lansing, Michigan, USA"
@@ -434,7 +434,15 @@
 					"date" : "2012"
 				},
 				{
-					"title" : "Poster Presentation:",
+					"title" : "Using EC to Optimize Robotic Fish",
+					"fields" : [
+						"BEACON Seminar",
+						"East Lansing, Michigan, USA"
+					],
+					"date" : "2012"
+				}
+				{
+					"title" : "Poster Presentation: Evolution for Robotic Fish",
 					"fields" : [
 						"NSF Annual Site Visit to BEACON",
 						"East Lansing, Michigan, USA"
@@ -480,11 +488,11 @@
 			"name" : "Software Contributions",
 			"items" : [
 				{
-					"title" : "Developer: Developer: Evolve-a-Robot: Online Evolutionary Robotics Environment",
+					"title" : "Developer: Evolve-a-Robot: Online Evolutionary Robotics Environment",
 					"fields" : [
 						"URL: http://evolve-a-robot.github.io/",
 						"Code: https://github.com/evolve-a-robot/evolve-a-robot.github.io",
-						"Description: The web portal allows users to conduct their own evolutionary robotics experiment while changing parameters related to evolutionary operators and the environment. Users develop an understanding of how population size, mutation, crossover, and selection influence the evolution of a wheeled robotic system. The portal can be accessed directly by individuals, or in the context of a workshop to facilitate group discussion and individual student exploration."
+						"Description: Evolve-a-Robot is an interactive evolutionary robotics simulation. The project has two goals. First, to expose K-12 students to evolution and evolutionary computation using an engaging and fun platform. Evolve-a-Robot does this by visualizing the evolution of robotic cars with an easy-to-use interface. And second, to expose enough of the adjustable parameters (i.e. genetic operators, and evolutionary configuration) to make the simulation useful for teaching evolutionary algorithms to undergraduate students."
 					],
 					"date" : "2014-"
 				}
